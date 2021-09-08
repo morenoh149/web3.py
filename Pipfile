@@ -7,6 +7,7 @@ name = "pypi"
 requests = "*"
 python-binance = "*"
 web3 = "*"
+beeprint = "*"
 
 [dev-packages]
 

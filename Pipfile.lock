@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "1d9eba766d8b554758d6cafe70b74f3494025fee5f8f44184e2bc188c1363f20"
+            "sha256": "297d3fd42901c1ad358afacb9ba3c23f4c6e001284e73478ad0f0fb8e4ac2814"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -82,6 +82,13 @@
             ],
             "markers": "python_version >= '3.5'",
             "version": "==2.1.0"
+        },
+        "beeprint": {
+            "hashes": [
+                "sha256:b3cbe170718e696bfa05e074789212ba6aef5f096a5fd12717f14d4f1615a440"
+            ],
+            "index": "pypi",
+            "version": "==2.4.10"
         },
         "bitarray": {
             "hashes": [
@@ -557,6 +564,12 @@
             ],
             "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4' and python_version < '4'",
             "version": "==1.26.6"
+        },
+        "urwid": {
+            "hashes": [
+                "sha256:588bee9c1cb208d0906a9f73c613d2bd32c3ed3702012f51efe318a3f2127eae"
+            ],
+            "version": "==2.1.2"
         },
         "varint": {
             "hashes": [
